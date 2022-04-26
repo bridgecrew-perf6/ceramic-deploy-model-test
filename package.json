@@ -14,6 +14,7 @@
   },
   "scripts": {
     "start": "tsc && node ./dist/index.js",
+    "deploy_identity_link": "tsc && node ./dist/identity-link.js",
     "deploy_model": "tsc ./src/deploy_model.ts && node ./dist/deploy_model.js"
   },
   "devDependencies": {
