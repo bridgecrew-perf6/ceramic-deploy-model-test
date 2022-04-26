@@ -122,9 +122,9 @@ const main = async () => {
     accounts: [
       {
         protocol: "https",
-        host: "solana.com",
-        id: "solana.com",
-        claim: "solana.com/did-linked.json",
+        host: "swearby.io",
+        id: "swearby.io",
+        claim: "swearby.io/linked-did.json",
       },
     ],
   });
