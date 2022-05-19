@@ -5,4 +5,5 @@
 https://developers.ceramic.network/tools/glaze/development/
 
 **Link swearby.io to swearby did using AlsoKnownAs document**
+
 `SEED=xxxx npm run start`
