@@ -17,7 +17,8 @@
     "uint8arrays": "^3.0.0"
   },
   "scripts": {
-    "start": "node ./src/swearby-link.mjs"
+    "start": "node ./src/swearby-link.mjs",
+    "trustlist": "node ./src/swearby-trust.mjs"
   },
   "devDependencies": {
     "@tsconfig/node16": "^1.0.2",
