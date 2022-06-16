@@ -18,7 +18,8 @@
   },
   "scripts": {
     "start": "node ./src/swearby-link.mjs",
-    "trustlist": "node ./src/swearby-trust.mjs"
+    "trustlist": "node ./src/swearby-trust.mjs",
+    "trustdomainlist": "node ./src/swearby-trust-domain.mjs"
   },
   "devDependencies": {
     "@tsconfig/node16": "^1.0.2",
